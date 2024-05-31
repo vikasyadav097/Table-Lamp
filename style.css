@@ -1,4 +1,3 @@
-
 /* Set the colour and the position of the container and elements */
 body {
     height: 100vh;
@@ -115,7 +114,7 @@ body {
     border-radius:50%;
     width: 18px;
     height: 18px;
-    background-color: #fff084;
+    background-color: #df150e;
     left:15px;
     top:7px;
   }
@@ -280,7 +279,7 @@ body {
   .light {
     border-radius:50%;
     position: absolute;
-    background-color: #fff07c;
+    background-color: #ff7c7c;
     width:30px;
     height: 30px;
     top:145px;
